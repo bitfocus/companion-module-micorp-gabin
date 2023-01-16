@@ -1,0 +1,11 @@
+{
+  "name": "micorp-gabin",
+  "version": "1.0.0",
+  "description": "Companion module for Gabin",
+  "main": "index.js",
+  "author": "tde-roqu",
+  "license": "MIT",
+  "manufacturer": "Micorp",
+  "product": "Gabin",
+  "shortname": "gabin"
+}
